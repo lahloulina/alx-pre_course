@@ -1,1 +1,1 @@
-Hello, this is the Repo-session project
+Hey.This is the first ALX project that includes git commands
